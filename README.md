@@ -60,11 +60,11 @@ Welcome to the Cafe Management System! This project aims to streamline and enhan
 
 ## Technologies Used
 
-- **Front-End**: HTML, CSS, JavaScript, React.js
+- **Front-End**: HTML, SCSS, JavaScript, Angular
 
-- **Back-End**: Node.js, Express.js, Java (for advanced functionalities)
+- **Back-End**: Java
 
-- **Database**: MongoDB (or any preferred database)
+- **Database**: MySQL (or any preferred database)
 
 - **Authentication**: JSON Web Tokens (JWT)
 
